@@ -1,0 +1,7 @@
+variable names”: we’ll call them “identifiers” and treat them
+the same.
+
+since they’re part of the language, are called “keywords”. We won’t group these together since
+it should make a difference in the parsing stage whether we encounter a let or a fn.
+
+same goes for the last category we identified: the special characters.
